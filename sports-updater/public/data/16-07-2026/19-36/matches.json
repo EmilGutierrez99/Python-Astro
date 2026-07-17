@@ -1,0 +1,52 @@
+{
+  "matches": [
+    {
+      "home": {
+        "name": "Argentina",
+        "crest": "/images/16-07-2026_19-36/762.png"
+      },
+      "away": {
+        "name": "Switzerland",
+        "crest": "/images/16-07-2026_19-36/788.svg"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "group": null,
+      "date": "2026-07-12T01:00:00Z"
+    },
+    {
+      "home": {
+        "name": "France",
+        "crest": "/images/16-07-2026_19-36/773.svg"
+      },
+      "away": {
+        "name": "Spain",
+        "crest": "/images/16-07-2026_19-36/760.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "group": null,
+      "date": "2026-07-14T19:00:00Z"
+    },
+    {
+      "home": {
+        "name": "England",
+        "crest": "/images/16-07-2026_19-36/770.svg"
+      },
+      "away": {
+        "name": "Argentina",
+        "crest": "/images/16-07-2026_19-36/762.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "group": null,
+      "date": "2026-07-15T19:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+2026-07-16 19:36:36,265 [INFO] Carpeta creada: public\data\16-07-2026\19-36
+2026-07-16 19:36:36,266 [INFO] Carpeta creada: public\images\16-07-2026_19-36
+2026-07-16 19:36:36,268 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=WC&status=FINISHED&dateFrom=2026-07-09&dateTo=2026-07-16
+2026-07-16 19:36:38,152 [INFO] API respondió con 6 partido(s)
+2026-07-16 19:36:39,527 [INFO] Imagen descargada: public\images\16-07-2026_19-36\762.png
+2026-07-16 19:36:40,602 [INFO] Imagen descargada: public\images\16-07-2026_19-36\788.svg
+2026-07-16 19:36:41,660 [INFO] Imagen descargada: public\images\16-07-2026_19-36\773.svg
+2026-07-16 19:36:43,443 [INFO] Imagen descargada: public\images\16-07-2026_19-36\760.svg
+2026-07-16 19:36:44,516 [INFO] Imagen descargada: public\images\16-07-2026_19-36\770.svg
+2026-07-16 19:36:44,517 [INFO] JSON guardado en: public\data\16-07-2026\19-36\matches.json
+2026-07-16 19:36:44,518 [INFO] Proceso finalizado correctamente.
+2026-07-16 19:43:11,396 [INFO] Carpeta creada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\16-07-2026\19-43
+2026-07-16 19:43:11,397 [INFO] Carpeta creada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\16-07-2026_19-43
+2026-07-16 19:43:11,399 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=WC&status=FINISHED&dateFrom=2026-07-09&dateTo=2026-07-16
+2026-07-16 19:43:13,113 [INFO] API respondió con 6 partido(s)
+2026-07-16 19:43:14,131 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\16-07-2026_19-43\762.png
+2026-07-16 19:43:15,161 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\16-07-2026_19-43\788.svg
+2026-07-16 19:43:16,223 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\16-07-2026_19-43\773.svg
+2026-07-16 19:43:18,175 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\16-07-2026_19-43\760.svg
+2026-07-16 19:43:19,353 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\16-07-2026_19-43\770.svg
+2026-07-16 19:43:19,355 [INFO] JSON guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\16-07-2026\19-43\matches.json
+2026-07-16 19:43:19,355 [INFO] Proceso finalizado correctamente.
