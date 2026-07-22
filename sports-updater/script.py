@@ -5,7 +5,8 @@ Script de actualización de resultados deportivos.
 Se conecta a la API de football-data.org, descarga los últimos resultados
 finalizados de una competición y genera:
 
-  - un JSON con los partidos en:   {paths.data}/{DD-MM-YYYY}/{HH-MM}/matches.json
+  - un JSON con los partidos en:   {paths.data}/{DD-MM-YYYY}/{HH-MM}/{output.json_filename}
+                                    (por defecto "matches.json", configurable en config.json)
   - los escudos de los equipos en: {paths.images}/{DD-MM-YYYY_HH-MM}/
 
 Pensado para ejecutarse FUERA del proyecto Astro (por cron, tarea programada,
@@ -217,9 +218,9 @@ def ensure_directories(data_folder: Path, image_folder: Path, logger: logging.Lo
             logger.info(f"Carpeta ya existente, se reutiliza: {folder}")
 
 
-def save_matches_json(matches: list, data_folder: Path, logger: logging.Logger) -> Path:
+def save_matches_json(matches: list, data_folder: Path, json_filename: str, logger: logging.Logger) -> Path:
     data_folder.mkdir(parents=True, exist_ok=True)
-    output_path = data_folder / "matches.json"
+    output_path = data_folder / json_filename
     with output_path.open("w", encoding="utf-8") as f:
         json.dump({"matches": matches}, f, ensure_ascii=False, indent=2)
     logger.info(f"JSON guardado en: {output_path}")
@@ -256,8 +257,14 @@ def main():
         if not raw_matches:
             logger.warning("No se obtuvieron partidos de la API. Se guardará un JSON vacío.")
 
+        json_filename = output_cfg.get("json_filename", "matches.json").strip()
+        if not json_filename:
+            json_filename = "matches.json"
+        if not json_filename.lower().endswith(".json"):
+            json_filename += ".json"
+
         matches = process_matches(raw_matches, config, image_folder, logger)
-        save_matches_json(matches, data_folder, logger)
+        save_matches_json(matches, data_folder, json_filename, logger)
 
         logger.info("Proceso finalizado correctamente.")
     except Exception as e:

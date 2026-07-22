@@ -6,18 +6,19 @@
         "verify_ssl": true
     },
     "paths": {
-    "data": "C:/Users/usuario/Documents/AAA_Documentacion_DE_PROYECTO/Tests_Cumber/Formulario de contacto-Astro/astroplate/public/data",
-    "images": "C:/Users/usuario/Documents/AAA_Documentacion_DE_PROYECTO/Tests_Cumber/Formulario de contacto-Astro/astroplate/public/images"
+        "data": "C:/Users/usuario/Documents/AAA_Documentacion_DE_PROYECTO/Tests_Cumber/Formulario de contacto-Astro/astroplate/public/data",
+        "images": "C:/Users/usuario/Documents/AAA_Documentacion_DE_PROYECTO/Tests_Cumber/Formulario de contacto-Astro/astroplate/public/images"
     },
     "output": {
         "date_format": "%d-%m-%Y",
         "time_format": "%H-%M",
-        "image_folder_format": "{date}_{time}"
+        "image_folder_format": "{date}_{time}",
+        "json_filename": "Fifa_World_Cup.json" 
     },
     "filters": {
         "competition": "WC",
         "status": "FINISHED",
-        "days_back": 7,
+        "days_back": 10,
         "max_results": 3
     },
     "download": {
