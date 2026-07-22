@@ -18,7 +18,7 @@
     "filters": {
         "competition": "WC",
         "status": "FINISHED",
-        "days_back": 10,
+        "days_back": 7,
         "max_results": 3
     },
     "download": {
