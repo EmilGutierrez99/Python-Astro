@@ -1,0 +1,12 @@
+# Configuracion con el token real — NUNCA versionar
+config.json
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

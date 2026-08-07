@@ -1,0 +1,39 @@
+{
+  "api": {
+    "base_url": "https://api.football-data.org/v4",
+    "api_key": "",
+    "api_key_env": "FOOTBALL_DATA_TOKEN",
+    "competitions": ["CL", "PL", "ELC", "PD", "BL1", "SA", "FL1", "DED", "PPL", "BSA", "WC", "EC"],
+    "timeout": 30,
+    "verify_ssl": true
+  },
+  "paths": {
+    "data": "../astroplate/public/data",
+    "images": "../astroplate/public/images"
+  },
+  "output": {
+    "date_format": "%d-%m-%Y",
+    "time_format": "%H-%M",
+    "json_filename": "matches.json"
+  },
+  "images": {
+    "mode": "snapshot",
+    "shared_dir": "crests"
+  },
+  "filters": {
+    "status": "FINISHED",
+    "days_back": 7,
+    "max_results": 12
+  },
+  "download": {
+    "overwrite": false,
+    "download_images": true,
+    "max_retries": 3,
+    "max_retry_wait_seconds": 90
+  },
+  "logging": {
+    "enabled": true,
+    "level": "INFO",
+    "file": "logs/script.log"
+  }
+}
