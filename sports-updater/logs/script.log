@@ -38,3 +38,39 @@
 2026-07-22 18:16:43,758 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\22-07-2026_18-16\760.svg
 2026-07-22 18:16:43,759 [INFO] JSON guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\22-07-2026\18-16\Fifa_World_Cup.json
 2026-07-22 18:16:43,759 [INFO] Proceso finalizado correctamente.
+2026-08-07 00:30:06,021 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-07-31&dateTo=2026-08-07&status=FINISHED
+2026-08-07 00:30:15,241 [INFO] API respondio con 1 partido(s)
+2026-08-07 00:30:15,241 [INFO] [dry-run] 1 partido(s); no se escribe nada.
+2026-08-07 00:34:36,661 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-07-08&dateTo=2026-08-07&status=FINISHED
+2026-08-07 00:34:37,386 [ERROR] Fallo la consulta a la API, no se escribe snapshot: Consulta de partidos: HTTP 400 — Specified period must not exceed 10 days.
+2026-08-07 00:34:57,332 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-07-28&dateTo=2026-08-07&status=FINISHED
+2026-08-07 00:34:59,426 [INFO] API respondio con 6 partido(s)
+2026-08-07 00:34:59,426 [INFO] [dry-run] 6 partido(s); no se escribe nada.
+2026-08-07 00:35:27,852 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-07-28&dateTo=2026-08-07&status=FINISHED
+2026-08-07 00:35:30,145 [INFO] API respondio con 6 partido(s)
+2026-08-07 00:35:31,220 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\4241.png
+2026-08-07 00:35:32,235 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1771.png
+2026-08-07 00:35:33,268 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\bsa.png
+2026-08-07 00:35:34,551 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1779.png
+2026-08-07 00:35:35,803 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1768.png
+2026-08-07 00:35:36,890 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1782.png
+2026-08-07 00:35:38,252 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1769.png
+2026-08-07 00:35:39,548 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1765.png
+2026-08-07 00:35:40,719 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1777.png
+2026-08-07 00:35:41,797 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\6684.png
+2026-08-07 00:35:43,145 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\1783.png
+2026-08-07 00:35:44,195 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\4364.png
+2026-08-07 00:35:45,223 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-35\4287.png
+2026-08-07 00:35:45,225 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\07-08-2026\04-35\matches.json (6 partido(s))
+2026-08-07 00:35:45,225 [INFO] Proceso finalizado correctamente.
+2026-08-07 00:40:28,977 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-07-28&dateTo=2026-08-07&status=FINISHED
+2026-08-07 00:40:30,883 [INFO] API respondio con 6 partido(s)
+2026-08-07 00:40:31,933 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\4241.png
+2026-08-07 00:40:33,036 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\1771.png
+2026-08-07 00:40:34,102 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\bsa.png
+2026-08-07 00:40:35,171 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\1779.png
+2026-08-07 00:40:36,267 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\1768.png
+2026-08-07 00:40:37,571 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\1782.png
+2026-08-07 00:40:39,019 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\1769.png
+2026-08-07 00:40:39,020 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\07-08-2026\04-40\matches.json (3 partido(s))
+2026-08-07 00:40:39,020 [INFO] Proceso finalizado correctamente.
