@@ -360,6 +360,7 @@ def process_matches(
 ) -> list[dict]:
     filters = config.get("filters", {})
     max_results = int(filters.get("max_results", 0) or 0)
+    max_per_competition = int(filters.get("max_results_per_competition", 0) or 0)
     wanted_status = filters.get("status", "FINISHED")
     download_images = config.get("download", {}).get("download_images", True)
 
@@ -370,6 +371,20 @@ def process_matches(
 
     # Orden explicito por fecha descendente. No confiar en el orden de la API.
     raw_matches.sort(key=lambda m: m.get("utcDate") or "", reverse=True)
+
+    # Cuota por competicion ANTES del tope global: sin esto, la liga con mas
+    # partidos recientes (p.ej. el Brasileirao, que juega entre semana) se come
+    # el cupo y las demas ligas llegan al componente con uno o ningun partido.
+    if max_per_competition > 0:
+        per_competition: dict[str, int] = {}
+        balanced = []
+        for m in raw_matches:
+            code = (m.get("competition") or {}).get("code") or "?"
+            if per_competition.get(code, 0) >= max_per_competition:
+                continue
+            per_competition[code] = per_competition.get(code, 0) + 1
+            balanced.append(m)
+        raw_matches = balanced
 
     if max_results > 0:
         raw_matches = raw_matches[:max_results]

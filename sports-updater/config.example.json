@@ -3,7 +3,20 @@
     "base_url": "https://api.football-data.org/v4",
     "api_key": "",
     "api_key_env": "FOOTBALL_DATA_TOKEN",
-    "competitions": ["CL", "PL", "ELC", "PD", "BL1", "SA", "FL1", "DED", "PPL", "BSA", "WC", "EC"],
+    "competitions": [
+      "CL",
+      "PL",
+      "ELC",
+      "PD",
+      "BL1",
+      "SA",
+      "FL1",
+      "DED",
+      "PPL",
+      "BSA",
+      "WC",
+      "EC"
+    ],
     "timeout": 30,
     "verify_ssl": true
   },
@@ -23,7 +36,8 @@
   "filters": {
     "status": "FINISHED",
     "days_back": 10,
-    "max_results": 12
+    "max_results_per_competition": 5,
+    "max_results": 60
   },
   "download": {
     "overwrite": false,

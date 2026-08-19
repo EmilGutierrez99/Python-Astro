@@ -74,3 +74,321 @@
 2026-08-07 00:40:39,019 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\04-40\1769.png
 2026-08-07 00:40:39,020 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\07-08-2026\04-40\matches.json (3 partido(s))
 2026-08-07 00:40:39,020 [INFO] Proceso finalizado correctamente.
+2026-08-07 09:08:20,857 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-07-28&dateTo=2026-08-07&status=FINISHED
+2026-08-07 09:08:25,293 [INFO] API respondio con 6 partido(s)
+2026-08-07 09:08:26,609 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\4241.png
+2026-08-07 09:08:27,636 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1771.png
+2026-08-07 09:08:28,710 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\bsa.png
+2026-08-07 09:08:29,740 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1779.png
+2026-08-07 09:08:30,760 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1768.png
+2026-08-07 09:08:31,791 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1782.png
+2026-08-07 09:08:33,039 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1769.png
+2026-08-07 09:08:34,071 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1765.png
+2026-08-07 09:08:35,132 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1777.png
+2026-08-07 09:08:36,198 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\6684.png
+2026-08-07 09:08:37,252 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\1783.png
+2026-08-07 09:08:38,314 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\4364.png
+2026-08-07 09:08:39,405 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\07-08-2026\13-08\4287.png
+2026-08-07 09:08:39,407 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\07-08-2026\13-08\matches.json (6 partido(s))
+2026-08-07 09:08:39,407 [INFO] Proceso finalizado correctamente.
+2026-08-07 09:10:48,863 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-08-06&dateTo=2026-08-07&status=FINISHED
+2026-08-07 09:10:51,142 [INFO] API respondio con 0 partido(s)
+2026-08-07 09:10:51,142 [INFO] La API no devolvio partidos en el rango consultado.
+2026-08-07 09:10:51,144 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\07-08-2026\13-10\matches.json (0 partido(s))
+2026-08-07 09:10:51,145 [INFO] Proceso finalizado correctamente.
+2026-08-19 17:50:52,756 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-08-18&dateTo=2026-08-19&status=FINISHED
+2026-08-19 17:50:54,595 [INFO] API respondio con 0 partido(s)
+2026-08-19 17:50:54,595 [INFO] La API no devolvio partidos en el rango consultado.
+2026-08-19 17:50:54,598 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\21-50\matches.json (0 partido(s))
+2026-08-19 17:50:54,598 [INFO] Proceso finalizado correctamente.
+2026-08-19 17:51:41,259 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CELC%2CPD%2CBL1%2CSA%2CFL1%2CDED%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 17:51:43,280 [INFO] API respondio con 60 partido(s)
+2026-08-19 17:51:44,372 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\6684.png
+2026-08-19 17:51:45,658 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\4287.png
+2026-08-19 17:51:46,538 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\bsa.png
+2026-08-19 17:51:47,662 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\6618.png
+2026-08-19 17:51:48,584 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1903.png
+2026-08-19 17:51:49,457 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\PPL.png
+2026-08-19 17:51:50,579 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\715.png
+2026-08-19 17:51:51,475 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\404.png
+2026-08-19 17:51:52,590 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\ELC.png
+2026-08-19 17:51:53,470 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\560.png
+2026-08-19 17:51:54,562 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\285.png
+2026-08-19 17:51:55,454 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\laliga.png
+2026-08-19 17:51:56,349 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1779.png
+2026-08-19 17:51:57,272 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1771.png
+2026-08-19 17:51:58,179 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1782.png
+2026-08-19 17:51:59,087 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1770.png
+2026-08-19 17:51:59,969 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\4364.png
+2026-08-19 17:52:00,863 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1783.png
+2026-08-19 17:52:01,944 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\5531.png
+2026-08-19 17:52:02,855 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\5575.png
+2026-08-19 17:52:03,767 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1766.png
+2026-08-19 17:52:04,633 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1767.png
+2026-08-19 17:52:05,512 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\1780.png
+2026-08-19 17:52:06,414 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\6685.png
+2026-08-19 17:52:07,306 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\80.png
+2026-08-19 17:52:08,169 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\88.png
+2026-08-19 17:52:10,799 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\712.png
+2026-08-19 17:52:11,721 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\21-51\583.png
+2026-08-19 17:52:11,723 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\21-51\matches.json (12 partido(s))
+2026-08-19 17:52:11,723 [INFO] Proceso finalizado correctamente.
+2026-08-19 18:03:46,688 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CBSA%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 18:03:49,292 [INFO] API respondio con 35 partido(s)
+2026-08-19 18:03:50,177 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\6684.png
+2026-08-19 18:03:51,067 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\4287.png
+2026-08-19 18:03:51,929 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\bsa.png
+2026-08-19 18:03:53,019 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\6618.png
+2026-08-19 18:03:53,892 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1903.png
+2026-08-19 18:03:54,812 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\PPL.png
+2026-08-19 18:03:55,691 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\560.png
+2026-08-19 18:03:56,565 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\285.png
+2026-08-19 18:03:57,476 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\laliga.png
+2026-08-19 18:03:58,391 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1779.png
+2026-08-19 18:03:59,257 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1771.png
+2026-08-19 18:04:00,166 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1782.png
+2026-08-19 18:04:01,017 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1770.png
+2026-08-19 18:04:01,885 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\4364.png
+2026-08-19 18:04:02,766 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1783.png
+2026-08-19 18:04:03,873 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\5531.png
+2026-08-19 18:04:04,775 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\5575.png
+2026-08-19 18:04:08,410 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1766.png
+2026-08-19 18:04:09,346 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1767.png
+2026-08-19 18:04:10,226 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\1780.png
+2026-08-19 18:04:11,103 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\6685.png
+2026-08-19 18:04:11,970 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\80.png
+2026-08-19 18:04:12,858 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\88.png
+2026-08-19 18:04:13,991 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\712.png
+2026-08-19 18:04:14,865 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\583.png
+2026-08-19 18:04:15,747 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\5335.png
+2026-08-19 18:04:16,626 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-03\94.png
+2026-08-19 18:04:16,628 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\22-03\matches.json (12 partido(s))
+2026-08-19 18:04:16,628 [INFO] Proceso finalizado correctamente.
+2026-08-19 18:08:47,935 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 18:08:50,805 [INFO] API respondio con 18 partido(s)
+2026-08-19 18:08:52,610 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\6618.png
+2026-08-19 18:08:53,527 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\1903.png
+2026-08-19 18:08:54,419 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\PPL.png
+2026-08-19 18:08:55,304 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\560.png
+2026-08-19 18:08:56,220 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\285.png
+2026-08-19 18:08:57,535 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\laliga.png
+2026-08-19 18:08:58,645 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\5531.png
+2026-08-19 18:08:59,519 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\5575.png
+2026-08-19 18:09:00,403 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\80.png
+2026-08-19 18:09:01,288 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\88.png
+2026-08-19 18:09:02,372 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\712.png
+2026-08-19 18:09:03,257 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\583.png
+2026-08-19 18:09:04,129 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\5335.png
+2026-08-19 18:09:04,998 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\94.png
+2026-08-19 18:09:05,888 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\5529.png
+2026-08-19 18:09:07,156 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\582.png
+2026-08-19 18:09:08,152 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\496.png
+2026-08-19 18:09:09,041 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\503.png
+2026-08-19 18:09:09,928 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\559.png
+2026-08-19 18:09:11,024 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\87.png
+2026-08-19 18:09:12,171 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\263.png
+2026-08-19 18:09:13,038 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\82.png
+2026-08-19 18:09:14,063 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\5527.png
+2026-08-19 18:09:15,166 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\5530.png
+2026-08-19 18:09:18,110 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\7822.png
+2026-08-19 18:09:19,031 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-08\9136.png
+2026-08-19 18:09:19,034 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\22-08\matches.json (12 partido(s))
+2026-08-19 18:09:19,034 [INFO] Proceso finalizado correctamente.
+2026-08-19 18:11:59,483 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=BSA%2CCL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 18:12:12,832 [INFO] API respondio con 35 partido(s)
+2026-08-19 18:12:13,868 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\6684.png
+2026-08-19 18:12:14,905 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\4287.png
+2026-08-19 18:12:15,836 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\bsa.png
+2026-08-19 18:12:17,440 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\6618.png
+2026-08-19 18:12:19,047 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1903.png
+2026-08-19 18:12:21,778 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\PPL.png
+2026-08-19 18:12:22,847 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\560.png
+2026-08-19 18:12:23,855 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\285.png
+2026-08-19 18:12:24,751 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\laliga.png
+2026-08-19 18:12:25,623 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1779.png
+2026-08-19 18:12:26,522 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1771.png
+2026-08-19 18:12:27,401 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\4364.png
+2026-08-19 18:12:28,319 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1783.png
+2026-08-19 18:12:29,237 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1782.png
+2026-08-19 18:12:30,120 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1770.png
+2026-08-19 18:12:31,218 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\5531.png
+2026-08-19 18:12:32,134 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\5575.png
+2026-08-19 18:12:33,060 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1780.png
+2026-08-19 18:12:33,934 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\6685.png
+2026-08-19 18:12:34,840 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1766.png
+2026-08-19 18:12:35,751 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1767.png
+2026-08-19 18:12:36,858 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\712.png
+2026-08-19 18:12:37,768 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\583.png
+2026-08-19 18:12:38,655 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\80.png
+2026-08-19 18:12:39,600 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\88.png
+2026-08-19 18:12:40,479 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\5335.png
+2026-08-19 18:12:42,346 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\94.png
+2026-08-19 18:12:43,225 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\5529.png
+2026-08-19 18:12:44,091 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\582.png
+2026-08-19 18:12:46,276 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1772_large.png
+2026-08-19 18:12:47,138 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1777.png
+2026-08-19 18:12:48,039 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1776.png
+2026-08-19 18:12:48,956 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\4241.png
+2026-08-19 18:12:49,834 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1768.png
+2026-08-19 18:12:50,712 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\4286.png
+2026-08-19 18:12:51,590 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\496.png
+2026-08-19 18:12:52,463 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\503.png
+2026-08-19 18:12:53,364 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\559.png
+2026-08-19 18:12:54,491 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\87.png
+2026-08-19 18:12:57,124 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1765.png
+2026-08-19 18:12:58,254 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\1769.png
+2026-08-19 18:12:59,368 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\263.png
+2026-08-19 18:13:00,241 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-11\82.png
+2026-08-19 18:13:00,242 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\22-11\matches.json (20 partido(s))
+2026-08-19 18:13:00,242 [INFO] Proceso finalizado correctamente.
+2026-08-19 18:15:09,641 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=CL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 18:15:13,965 [INFO] API respondio con 18 partido(s)
+2026-08-19 18:15:23,691 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\6618.png
+2026-08-19 18:15:24,569 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\1903.png
+2026-08-19 18:15:25,446 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\PPL.png
+2026-08-19 18:15:26,325 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\560.png
+2026-08-19 18:15:27,229 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\285.png
+2026-08-19 18:15:28,085 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\laliga.png
+2026-08-19 18:15:29,188 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\5531.png
+2026-08-19 18:15:30,073 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\5575.png
+2026-08-19 18:15:30,966 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\80.png
+2026-08-19 18:15:31,827 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\88.png
+2026-08-19 18:15:33,376 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\712.png
+2026-08-19 18:15:34,302 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\583.png
+2026-08-19 18:15:35,286 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\5335.png
+2026-08-19 18:15:38,065 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\94.png
+2026-08-19 18:15:39,006 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\5529.png
+2026-08-19 18:15:39,880 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\582.png
+2026-08-19 18:15:41,830 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\496.png
+2026-08-19 18:15:42,706 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\503.png
+2026-08-19 18:15:43,576 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\559.png
+2026-08-19 18:15:44,661 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\87.png
+2026-08-19 18:15:45,757 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\263.png
+2026-08-19 18:15:47,864 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\82.png
+2026-08-19 18:15:50,955 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\5527.png
+2026-08-19 18:15:51,840 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\5530.png
+2026-08-19 18:15:54,303 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\7822.png
+2026-08-19 18:15:55,238 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-15\9136.png
+2026-08-19 18:15:55,240 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\22-15\matches.json (12 partido(s))
+2026-08-19 18:15:55,240 [INFO] Proceso finalizado correctamente.
+2026-08-19 18:25:28,968 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=BSA%2CCL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 18:25:31,227 [INFO] API respondio con 35 partido(s)
+2026-08-19 18:25:32,205 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\6684.png
+2026-08-19 18:25:33,109 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\4287.png
+2026-08-19 18:25:33,998 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\bsa.png
+2026-08-19 18:25:35,092 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\6618.png
+2026-08-19 18:25:35,994 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1903.png
+2026-08-19 18:25:36,882 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\PPL.png
+2026-08-19 18:25:37,737 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\560.png
+2026-08-19 18:25:38,579 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\285.png
+2026-08-19 18:25:39,506 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\laliga.png
+2026-08-19 18:25:40,382 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1779.png
+2026-08-19 18:25:41,279 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1771.png
+2026-08-19 18:25:42,161 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1782.png
+2026-08-19 18:25:43,034 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1770.png
+2026-08-19 18:25:43,927 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\4364.png
+2026-08-19 18:25:44,774 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1783.png
+2026-08-19 18:25:45,860 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\5531.png
+2026-08-19 18:25:46,762 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\5575.png
+2026-08-19 18:25:47,640 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1766.png
+2026-08-19 18:25:48,846 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1767.png
+2026-08-19 18:25:51,046 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1780.png
+2026-08-19 18:25:52,748 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\6685.png
+2026-08-19 18:25:54,442 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\80.png
+2026-08-19 18:25:55,790 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\88.png
+2026-08-19 18:25:57,544 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\712.png
+2026-08-19 18:25:58,506 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\583.png
+2026-08-19 18:25:59,397 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\5335.png
+2026-08-19 18:26:00,277 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\94.png
+2026-08-19 18:26:01,158 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\5529.png
+2026-08-19 18:26:02,085 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\582.png
+2026-08-19 18:26:04,477 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1772_large.png
+2026-08-19 18:26:05,382 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1777.png
+2026-08-19 18:26:06,261 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\1776.png
+2026-08-19 18:26:07,131 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-25\4241.png
+2026-08-19 18:26:07,134 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\22-25\matches.json (15 partido(s))
+2026-08-19 18:26:07,134 [INFO] Proceso finalizado correctamente.
+2026-08-19 18:40:13,746 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=BSA%2CCL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 18:40:16,610 [INFO] API respondio con 35 partido(s)
+2026-08-19 18:40:18,108 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\6684.png
+2026-08-19 18:40:19,223 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\4287.png
+2026-08-19 18:40:20,344 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\bsa.png
+2026-08-19 18:40:21,536 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\6618.png
+2026-08-19 18:40:22,513 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1903.png
+2026-08-19 18:40:24,506 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\PPL.png
+2026-08-19 18:40:25,540 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\560.png
+2026-08-19 18:40:26,520 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\285.png
+2026-08-19 18:40:27,531 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\laliga.png
+2026-08-19 18:40:29,662 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1779.png
+2026-08-19 18:40:30,716 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1771.png
+2026-08-19 18:40:31,717 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1782.png
+2026-08-19 18:40:32,786 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1770.png
+2026-08-19 18:40:33,917 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\4364.png
+2026-08-19 18:40:35,075 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1783.png
+2026-08-19 18:40:36,415 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\5531.png
+2026-08-19 18:40:37,480 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\5575.png
+2026-08-19 18:40:38,358 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1766.png
+2026-08-19 18:40:39,565 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1767.png
+2026-08-19 18:40:40,611 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1780.png
+2026-08-19 18:40:41,511 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\6685.png
+2026-08-19 18:40:42,896 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\80.png
+2026-08-19 18:40:45,020 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\88.png
+2026-08-19 18:40:47,281 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\712.png
+2026-08-19 18:40:48,878 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\583.png
+2026-08-19 18:40:50,323 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\5335.png
+2026-08-19 18:40:51,516 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\94.png
+2026-08-19 18:40:52,735 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\5529.png
+2026-08-19 18:40:54,896 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\582.png
+2026-08-19 18:40:59,328 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1772_large.png
+2026-08-19 18:41:00,643 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1777.png
+2026-08-19 18:41:02,411 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1776.png
+2026-08-19 18:41:03,446 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\4241.png
+2026-08-19 18:41:04,730 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1768.png
+2026-08-19 18:41:05,672 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\4286.png
+2026-08-19 18:41:06,591 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\496.png
+2026-08-19 18:41:08,904 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\503.png
+2026-08-19 18:41:10,722 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\559.png
+2026-08-19 18:41:12,389 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\87.png
+2026-08-19 18:41:15,099 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1765.png
+2026-08-19 18:41:25,054 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\1769.png
+2026-08-19 18:41:26,156 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\263.png
+2026-08-19 18:41:27,055 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\22-40\82.png
+2026-08-19 18:41:27,057 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\22-40\matches.json (20 partido(s))
+2026-08-19 18:41:27,058 [INFO] Proceso finalizado correctamente.
+2026-08-19 19:07:09,012 [INFO] Consultando API: https://api.football-data.org/v4/matches?competitions=BSA%2CCL%2CPL%2CPD%2CBL1%2CSA%2CFL1%2CPPL%2CWC%2CEC&dateFrom=2026-08-09&dateTo=2026-08-19&status=FINISHED
+2026-08-19 19:07:11,202 [INFO] API respondio con 35 partido(s)
+2026-08-19 19:07:12,313 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\6684.png
+2026-08-19 19:07:13,279 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\4287.png
+2026-08-19 19:07:14,133 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\bsa.png
+2026-08-19 19:07:15,226 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\6618.png
+2026-08-19 19:07:16,100 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1903.png
+2026-08-19 19:07:16,971 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\PPL.png
+2026-08-19 19:07:17,863 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\560.png
+2026-08-19 19:07:18,729 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\285.png
+2026-08-19 19:07:19,618 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\laliga.png
+2026-08-19 19:07:20,493 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1779.png
+2026-08-19 19:07:21,389 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1771.png
+2026-08-19 19:07:22,268 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1782.png
+2026-08-19 19:07:23,125 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1770.png
+2026-08-19 19:07:24,015 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\4364.png
+2026-08-19 19:07:25,747 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1783.png
+2026-08-19 19:07:26,860 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\5531.png
+2026-08-19 19:07:27,770 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\5575.png
+2026-08-19 19:07:30,290 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1766.png
+2026-08-19 19:07:31,173 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\1767.png
+2026-08-19 19:07:32,041 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\80.png
+2026-08-19 19:07:32,931 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\88.png
+2026-08-19 19:07:34,030 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\712.png
+2026-08-19 19:07:35,382 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\583.png
+2026-08-19 19:07:36,289 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\5335.png
+2026-08-19 19:07:37,187 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\94.png
+2026-08-19 19:07:38,066 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\5529.png
+2026-08-19 19:07:39,334 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\582.png
+2026-08-19 19:07:40,295 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\496.png
+2026-08-19 19:07:41,172 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\503.png
+2026-08-19 19:07:42,050 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\559.png
+2026-08-19 19:07:43,131 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\87.png
+2026-08-19 19:07:44,195 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\263.png
+2026-08-19 19:07:45,079 [INFO] Imagen descargada: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\images\19-08-2026\23-07\82.png
+2026-08-19 19:07:45,082 [INFO] Snapshot guardado en: C:\Users\usuario\Documents\AAA_Documentacion_DE_PROYECTO\Tests_Cumber\Formulario de contacto-Astro\astroplate\public\data\19-08-2026\23-07\matches.json (15 partido(s))
+2026-08-19 19:07:45,082 [INFO] Proceso finalizado correctamente.
